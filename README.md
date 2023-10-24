@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin
-- 👀 I’m interested in philosophy and economics
+- 👀 I’m interested in economics and philosophy
 - 🌱 I’m currently doing a BPhil in Philosophy at Oxford
 - 📫 How to reach me munm.isp@gmail.com
 
