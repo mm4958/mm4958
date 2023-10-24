@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Martin
 - 👀 I’m interested in philosophy and economics
-- 🌱 I’m currently learning programming for economics
-- 💞️ I’m looking to collaborate on nothing at the moment (too busy trying to learn programming :))
+- 🌱 I’m currently doing a BPhil in Philosophy at Oxford
 - 📫 How to reach me munm.isp@gmail.com
 
 <!---
