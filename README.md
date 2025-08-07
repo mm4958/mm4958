@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Martin
 - 👀 I’m interested in economics and philosophy
-- 🌱 I’m currently a predoc at MIT
 - 📫 How to reach me munm.isp@gmail.com
 
 <!---
